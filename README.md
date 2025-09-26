@@ -54,7 +54,7 @@ palindrome-checker/
 
 2. **Navigate to the project directory**
    ```bash
-   cd palindrome-checker
+   cd palindrome-checker-fcc
    ```
 
 3. **Open in your browser**
