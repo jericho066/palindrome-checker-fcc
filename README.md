@@ -18,7 +18,7 @@ A palindrome is a word, phrase, number, or other sequence of characters that rea
 - **Input validation** to ensure meaningful input
 
 ## 🚀 Demo
-[Live Demo]()
+[Live Demo](https://jericho066.github.io/palindrome-checker-fcc/) <br>
 Simply enter any text into the input field and click "Check" or press Enter to see if it's a palindrome!
 
 ## 🛠️ Technologies Used
