@@ -114,9 +114,5 @@ Perfect for beginners learning web development or anyone working through the fre
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](https://github.com/jericho066/palindrome-checker-fcc/blob/main/LICENSE).
 
-
----
-
-*Made with ❤️ for learning and education*
